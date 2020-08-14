@@ -1,0 +1,8 @@
+version: '3'
+services:
+  maven:
+    container_name: docker-compose-sparkjava
+    build: .
+    image: docker-compose-sparkjava
+    ports: 
+      - "4567:4567"
