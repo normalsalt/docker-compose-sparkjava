@@ -6,6 +6,14 @@
 
 Update `Dockerfile`.
 
+# up
+
+```
+docker-compose up -d
+```
+
+Open `http://localhost:4567` in your browser.
+
 # Spark Framework
 
 http://sparkjava.com/
@@ -25,14 +33,6 @@ Update `pom.xml`.
 ## documentation
 
 http://sparkjava.com/documentation
-
-# up
-
-```
-docker-compose up -d
-```
-
-Open `http://localhost:4567` in your browser.
 
 # build
 
